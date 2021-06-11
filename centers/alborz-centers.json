@@ -1,0 +1,33 @@
+{
+	"name": "البرز",
+	"slug": "alborz",
+	"centers": [
+		{
+			"name": "اداره کل انتقال خون البرز",
+			"address": "البرز- کرج – 45 متری گلشهر – 4 راه گلزار غربی – اداره کل انتقال خون",
+			"worktime": "از شنبه تا  5 شنبه از ساعت 8 الی 18",
+			"phone": "0263350771|04435634287|02633503344",
+			"balad": "https://balad.ir/embed?p=363cSLWbCb1Woo",
+			"googlemap": "https://goo.gl/maps/1A7AboUnWSWKeDmc7",
+			"location": "35.821728,50.9262955"
+		},
+		{
+			"name": "مرکز اهدای خون توحید",
+			"address": "کرج – بلوار توحید ضلع شرقی میدان مرکز اهدای خون توحید",
+			"worktime": "از شنبه  تا  چهارشنبه از ساعت 8 الی 13 | پنج شنبه ها از ساعت 8 الی 12",
+			"phone": "02632231810",
+			"balad": "https://balad.ir/embed?p=5UlUsJExKZAHsf",
+			"googlemap": "https://goo.gl/maps/J1xM6P6JMekBQ44u6",
+			"location": "35.8217073,50.8650101"
+		},
+		{
+			"name": "مرکز اهدای خون مهربانو",
+			"address": "کرج - رجایی شهر خ قائم (داریوش ) نبش کوچه آریا ساختمان مهربانو ط 2",
+			"worktime": "شنبه و  یکشنبه ساعت 8 الی 13 ",
+			"phone": "02634216448",
+			"balad": "https://balad.ir/embed?p=3LYO6SW2xds6GX",
+			"googlemap": "https://goo.gl/maps/371zLxTdWy2YrNC59",
+			"location": "35.8512065,50.9337263"
+		}
+	]
+}
