@@ -3,31 +3,31 @@
 	"slug": "qazvin",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون قزوین",
+			"address": "قزوین- سرپل طالقانی نبش آیت اله کاشانی",
+			"worktime": "ایام هفته به جز جمعه ها از ساعت 8 الی 20 | روزهای جمعه از 9 الی 13",
+			"phone": "02833230196",
+			"balad": "https://balad.ir/embed?p=4TRpxd5eL3Akh0",
+			"googlemap": "https://goo.gl/maps/sr9HBiwM2uXkEE1f9",
+			"location": "36.2673939,50.0108811"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون تاکستان",
+			"address": "تاکستان- بلوار امام خمینی بین چهارراه غفاری و چهارراه بانک ملی",
+			"worktime": "روزهای هفته به جز جمعه ساعت 8 الی 13",
+			"phone": "02835247232",
+			"balad": "https://balad.ir/embed?p=fRHqC5uzX87jEf",
+			"googlemap": "https://goo.gl/maps/ui5Q8wAxvWKDFoE66",
+			"location": "36.0689198,49.6960884"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
+			"name": "سامانه سیار خونگیری بوئین زهرا",
+			"address": "بوئین زهرا- معلم شرقی محوطه داخل ساختمان هلال احمر",
+			"worktime": "روز سه شنبه هر هفته 8:30 الی 13",
 			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"balad": "https://balad.ir/embed?p=1kg0kMWRoB00aw",
+			"googlemap": "https://goo.gl/maps/RaMcF5GZ4EeN1eWE7",
+			"location": "35.7652815,45.5671109"
 		}
 	]
 }

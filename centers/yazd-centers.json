@@ -3,40 +3,40 @@
 	"slug": "yazd",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان یزد",
+			"address": "یزد-صفائیه- میدان ابوذر",
+			"worktime": "شنبه تا 5 شنبه: 7:30 صبح الی 19",
+			"phone": "03538247427",
+			"balad": "https://balad.ir/embed?p=N5ZTp63aL2yBN3",
+			"googlemap": "https://goo.gl/maps/dipAPbe8iJot35FPA",
+			"location": "31.8720474,54.3504295"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون آزادشهر",
+			"address": "آزادشهر فلکه پنجم جنب پمپ گاز",
+			"worktime": "شنبه تا 5 شنبه: 8صبح الی 12:30",
+			"phone": "03537217311",
+			"balad": "https://balad.ir/embed?p=3WRSeXolEN0Grf",
+			"googlemap": "https://goo.gl/maps/t5ewi96tskYqXQsC9",
+			"location": "31.8614428,54.2904512"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون شهید حسینی پور اردکان",
+			"address": "اردکان-مجتمع ادارات-خیابان دولت",
+			"worktime": "شنبه تا 5 شنبه: 7:30 الی 13:30",
+			"phone": "03532225040",
+			"balad": "https://balad.ir/embed?p=7geZEotNxTR3Ee",
+			"googlemap": "https://goo.gl/maps/RDfuCQCVJ8jq4yq27",
+			"location": "32.2910258,54.0186649"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون میبد",
+			"address": "میبد-خیابان هفت تیر-روبروی رضویه",
+			"worktime": "شنبه تا 5 شنبه: 7:30 الی 13:30",
+			"phone": "03532324050",
+			"balad": "https://balad.ir/embed?p=2mK5yFTCN5u8pu",
+			"googlemap": "https://goo.gl/maps/QNv2539dMtdnrKoF7",
+			"location": "32.2316327,54.0188776"
 		}
 	]
 }

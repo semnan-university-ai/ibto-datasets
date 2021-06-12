@@ -3,76 +3,76 @@
 	"slug": "markazi",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان مرکزی",
+			"address": "اراک-خیابان شهید شیرودی(خرم)",
+			"worktime": "هر روز به جز روزهای تعطیل | صبح :13-8 | عصر: 19-14",
+			"phone": "08632248031|08632248032|08632248033",
+			"balad": "https://balad.ir/embed?p=6gSzqeRnQxrUYK",
+			"googlemap": "https://goo.gl/maps/QENFjxr1v4E7rCAq8",
+			"location": "34.0808587,49.7084967"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
+			"name": "مرکز اهدای خون شهید رجایی",
+			"address": "اراک-خیابان شهید رجایی(ملک)، کوچه شهید توسطی",
+			"worktime": "هر روز به جز روزهای تعطیل صبح :13-8",
+			"phone": "08632240668",
 			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"googlemap": "https://goo.gl/maps/B8s6qSwhaCqmYSkG8",
+			"location": "34.0848508,49.6881307"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون ساوه",
+			"address": "ساوه-خیابان مطهری-میدان مدرس",
+			"worktime": "هر روز به جز روزهای تعطیل صبح :13-8",
+			"phone": "08642222320|08642222690",
+			"balad": "https://balad.ir/embed?p=PfEvFrVeyUBKIf",
+			"googlemap": "https://goo.gl/maps/66JR9ZbS82m9DoXeA",
+			"location": "35.0229794,50.3643008"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون خمین",
+			"address": "خمین-خیابان تختی، ساختمان معاونت غذا و دارو دانشگاه علوم پزشکی خمین",
+			"worktime": "شنبه صبح 8 الی 12",
+			"phone": "08646232954|09126954267",
+			"balad": "https://balad.ir/embed?p=7bkNC7ZEiI4ulI",
+			"googlemap": "https://goo.gl/maps/AJnE6uAU8UgNrSiy6",
+			"location": "33.6211112,50.0631852"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون دلیجان",
+			"address": "دلیجان-خیابان امام-کوچه 17 شهریور",
+			"worktime": "یکشنبه صبح 8 الی 12",
+			"phone": "08644228810|09183652203",
+			"balad": "https://balad.ir/embed?p=xdTfQC5x9F3qvR",
+			"googlemap": "https://goo.gl/maps/LWxXk7WEBfXMx2VA8",
+			"location": "33.9875356,50.6875851"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون تفرش",
+			"address": "تفرش-خیابان شهید فیاض بخش-بیمارستان والفجر",
+			"worktime": "دوشنبه صبح 8 الی 13",
+			"phone": "08636225444|09188633548",
+			"balad": "https://balad.ir/embed?p=eAZdJbSU3WWeXz",
+			"googlemap": "https://goo.gl/maps/iZ93LLxzmRA97eca7",
+			"location": "34.698275,49.9996306"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون محلات",
+			"address": "محلات-خیابان شهید محلاتی،خیابان شهید رجایی غربی،درمانگاه امام حسن",
+			"worktime": "سه شنبه صبح 8 الی 12",
+			"phone": "08643232823|09183692137",
+			"balad": "https://balad.ir/embed?p=RBb6QUmfWaHS6k",
+			"googlemap": "https://goo.gl/maps/LJkcXkemCwuSWT6fA",
+			"location": "33.9018155,50.4542614"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون آشتیان",
+			"address": "آشتیان-خیابان شهید باهنر، شبکه بهداشت و درمان آشتیان",
+			"worktime": "چهارشنبه صبح 8 الی 12",
+			"phone": "08637222615|09188617029",
+			"balad": "https://balad.ir/embed?p=qyCqk5WDjjHv7v",
+			"googlemap": "https://goo.gl/maps/4HdrXBTxytqPdu9s5",
+			"location": "34.5270132,50.0029213"
 		}
 	]
 }

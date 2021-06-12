@@ -3,49 +3,49 @@
 	"slug": "western-azerbaijan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان آذربایجان غربی",
+			"address": "آذربایجان غربی- خیابان مدرس",
+			"worktime": "شنبه تا چهارشنبه 30/7 الی 20 | پنجشنبه 30/7 الی 19 | جمعه 8 الی 13",
+			"phone": "04433442111|04433442112",
+			"balad": "https://balad.ir/embed?p=PpQZYNmeaTA55A",
+			"googlemap": "https://goo.gl/maps/f9LZn5BzHymbjcRWA",
+			"location": "37.5508315,45.0544543"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون خوی",
+			"address": "خوی- میدان امام حسین (ع)",
+			"worktime": "شنبه تا چهارشنبه 30/7 الی 30/14 | پنجشنبه 30/7 الی 30/13",
+			"phone": "04436338888",
+			"balad": "https://balad.ir/embed?p=R5BZJEbez3ven2",
+			"googlemap": "https://goo.gl/maps/wrJDahJh4yb5M8i76",
+			"location": "38.5488137,44.9289119"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون مهاباد",
+			"address": "مهاباد- فلکه مادر",
+			"worktime": "شنبه تا چهارشنبه 30/7 الی 30/14 | پنجشنبه 30/7 الی 30/13",
+			"phone": "04442442881",
+			"balad": "https://balad.ir/embed?p=R5wCWCYHZSKbuF",
+			"googlemap": "https://goo.gl/maps/ic9Lrm67ZmAcAdtZ6",
+			"location": "36.7679699,45.7154132"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون میاندوآب",
+			"address": "میاندوآب- خیابان دانش جنب مرکز بهداشت",
+			"worktime": "شنبه تا چهارشنبه 30/7 الی 30/14 | پنجشنبه 30/7 الی 30/13",
+			"phone": "04445231332",
+			"balad": "https://balad.ir/embed?p=5CUyNc1KRBUj2s",
+			"googlemap": "https://goo.gl/maps/Lj9pnDaRKYTackci9",
+			"location": "36.9731805,46.0972764"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون نقده",
+			"address": "نقده- خیابان امام خمینی، بیمارستان فاطمه زهرا",
+			"worktime": "شنبه تا چهارشنبه 30/7 الی 30/14 | پنجشنبه 30/7 الی 30/13",
+			"phone": "04435634287",
+			"balad": "https://balad.ir/embed?p=5X9eFwu4EFXXIr",
+			"googlemap": "https://goo.gl/maps/dAHC4UWAF7BjMbdk8",
+			"location": "36.2011648,46.4798226"
 		}
 	]
 }

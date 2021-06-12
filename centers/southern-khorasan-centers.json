@@ -1,0 +1,51 @@
+{
+	"name": "خراسان جنوبی",
+	"slug": "southern-khorasan",
+	"centers": [
+		{
+			"name": "اداره کل انتقال خون استان خراسان جنوبی",
+			"address": "خیابان پاسداران میدان جانبازان",
+			"worktime": "همه روزه 7:30تا13:30 | یکشنبه وچهارشنبه 7:30تا19:15 | پنجشنبه 7:30 تا 12:30",
+			"phone": "05632433119",
+			"balad": "https://balad.ir/embed?p=mMqj2mAdU8Hkz8",
+			"googlemap": "https://goo.gl/maps/niC26F4rvk8Vw4s87",
+			"location": "32.8521447,59.2198809"
+		},
+		{
+			"name": "مرکز اهدای خون (کانتینر)",
+			"address": "میدان ابوذر",
+			"worktime": "شنبه تاپنج شنبه 8تا13:00",
+			"phone": "05632224444",
+			"balad": "https://balad.ir/embed?p=1LO2vu4j0We3c4",
+			"googlemap": "https://goo.gl/maps/YGRqfCMfjUNj3S2e7",
+			"location": "32.8732038,59.2147436"
+		},
+		{
+			"name": "مرکز اهدای خون طبس",
+			"address": "طبس گلشن- میدان امام رضا",
+			"worktime": "همه روزه 7:30تا13:30 | سه شنبه ها (صبح :7:30 تا 13:30 عصر:16 تا 19 ) | پنجشنبه 7:30 تا 12:30",
+			"phone": "05632833500",
+			"balad": "https://balad.ir/embed?p=7p9ti5IhMKMcY2",
+			"googlemap": "https://goo.gl/maps/rQ7jfPBoUWec2kKq9",
+			"location": "33.5958058,56.9161795"
+		},
+		{
+			"name": "مرکز اهدای خون فردوس",
+			"address": "بلوارشفاخیابان مطهری دکترمعتمدی 1",
+			"worktime": "",
+			"phone": "05632732032",
+			"balad": "https://balad.ir/embed?p=aUL57TMyE9Hw42",
+			"googlemap": "https://goo.gl/maps/escY2REdgUZ1wAUw8",
+			"location": "34.0159044,58.1637107"
+		},
+		{
+			"name": "مرکز اهدای خون قاین",
+			"address": "حاشیه بلوار بامشاد قبل ازجایگاه سی ان جی",
+			"worktime": "",
+			"phone": "05632526318",
+			"balad": "https://balad.ir/embed?p=8TFkdSZVasU7Tz",
+			"googlemap": "https://goo.gl/maps/ooA8kGFdFxj3kEWK6",
+			"location": "33.7330141,59.1912234"
+		}
+	]
+}

@@ -3,22 +3,22 @@
 	"slug": "zanjan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز جامع اهدای خون سعدی",
+			"address": "زنجان- چهارراه سعدی",
+			"worktime": "شنبه الی پنج شنبه 8 صبح لغایت 19:30 عصر جمعه 8 صبح لغایت 14",
+			"phone": "02433549303|02433549301",
+			"balad": "https://balad.ir/embed?p=5WiTvd6dvWBcwh",
+			"googlemap": "https://goo.gl/maps/GP1UZAWXfbG5LHWV9",
+			"location": "36.1529499,49.2332742"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون ابهر",
+			"address": "ابهر- چهار راه معلم، درب قدیم بیمارستان امدادی ابهر جنب داروخانه دکتر شاهانی",
+			"worktime": "شنبه الی پنج شنبه 8 صبح لغایت 14 ",
+			"phone": "02435231930",
+			"balad": "https://balad.ir/embed?p=7kK5GKEmL9Aui6",
+			"googlemap": "https://goo.gl/maps/WngGanCNo38wVCa59",
+			"location": "36.6756016,48.4822148"
 		}
 	]
 }

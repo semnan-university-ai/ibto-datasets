@@ -3,58 +3,58 @@
 	"slug": "sistan-and-baluchestan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز امام مهدی (عج)",
+			"address": "زاهدان- خ آزادی تقاطع مصطفی خمینی مرکز خونگیری زاهدان",
+			"worktime": "07:00 الی 20:00",
+			"phone": "05433220000|05433229999",
+			"balad": "https://balad.ir/embed?p=6V8y4jV3hMfCfS",
+			"googlemap": "https://goo.gl/maps/byuM3sQ1tKzvSSvw9",
+			"location": "29.4954538,60.8683402"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون زابل",
+			"address": "زابل- خ امام خمینی جنب مخابرات",
+			"worktime": "7:00  الی 19:30",
+			"phone": "05432241335",
+			"balad": "https://balad.ir/embed?p=7e49hZpsaUp7kV",
+			"googlemap": "https://goo.gl/maps/G9KuNNQmpxnVCwpd9",
+			"location": "31.0273704,61.4935403"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون چابهار",
+			"address": "چابهار- خ شهید باهنر خ امداد جنب بیمارستان امام علی (ع)",
+			"worktime": "7 الی 13",
+			"phone": "05435330780",
+			"balad": "https://balad.ir/embed?p=5UqJ8N5rK8zYGO",
+			"googlemap": "https://goo.gl/maps/RyrYHD3RjhqNzcWu9",
+			"location": "25.2849482,60.6509118"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون ایرانشهر",
+			"address": "ایرانشهر- پارک شهدا خ بهداشت روبروی معاونت بهداشتی دانشگاه علوم پزشکی ایرانشهر",
+			"worktime": "7 الی 13",
+			"phone": "05437222999",
+			"balad": "https://balad.ir/embed?p=3txWMQhnXH88DB",
+			"googlemap": "https://goo.gl/maps/drx7BG5mFPd56YiMA",
+			"location": "27.203622,60.676235"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون سراوان",
+			"address": "سراوان- خ عدالت عدالت شمالی روبروی عدالت 12",
+			"worktime": "روزهای سه شنبه ، چهارشنبه ، پنج شنبه  14:00 الی 19:00",
+			"phone": "05437628008",
+			"balad": "https://balad.ir/embed?p=F94fcCUHNqVNSN",
+			"googlemap": "https://goo.gl/maps/LnrtNowMJWoCJ6jo8",
+			"location": "27.399914,62.3350193"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون خاش",
+			"address": "خاش- خیابان امام خمینی میدان شهدا جنب دانشکده سلامت خاش",
+			"worktime": "سه شنبه ها 8:00 الی 11:30",
+			"phone": "05433727000",
+			"balad": "https://balad.ir/embed?p=4n2vFJSw9psErK",
+			"googlemap": "https://goo.gl/maps/f1DWiyMBU3bfin2B8",
+			"location": "28.2221146,61.2053356"
 		}
 	]
 }

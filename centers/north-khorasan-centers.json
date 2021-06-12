@@ -3,22 +3,22 @@
 	"slug": "north-khorasan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون بجنورد",
+			"address": "میدان دفاع مقدس روبروی استانداری",
+			"worktime": "شنبه تا چهارشنبه از ساعت ۷:۳۰ الی ۱۳:۳۰ | پنجشنبه ها از ساعت ۷:۳۰ الی۱۲:۳۰",
+			"phone": "05832237116",
+			"balad": "https://balad.ir/embed?p=46CEXEHLtswbiU",
+			"googlemap": "https://goo.gl/maps/1ywe3sWSKpYBUM5z5",
+			"location": "37.4615109,57.3300351"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون شیروان",
+			"address": "شیروان- بلوار استقلال جنب شورای حل اختلاف",
+			"worktime": "شنبه تا چهارشنبه از ساعت ۷:۳۰الی۱۲:۳۰ | پنجشنبه ها از ساعت ۷:۳۰ الی ۱۱:۳۰",
+			"phone": "05836347862",
+			"balad": "https://balad.ir/embed?p=6mg5tJmeeVtqLh",
+			"googlemap": "https://goo.gl/maps/ZnZDDhQdp1F7tTsM8",
+			"location": "37.4158238,57.9146794"
 		}
 	]
 }

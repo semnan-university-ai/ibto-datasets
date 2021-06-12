@@ -3,40 +3,40 @@
 	"slug": "semnan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون امام رضا(ع) سمنان",
+			"address": "سمنان-بلوار معلم شرقی قبل از میدان امام رضا(ع)",
+			"worktime": "روزهای فرد7:30 الی 13:30 | روز های زوج 7:30 الی19",
+			"phone": "02333322325",
+			"balad": "https://balad.ir/embed?p=6HFKRV6galkhrm",
+			"googlemap": "https://goo.gl/maps/E7LpsSrxA9Ec5Xxn6",
+			"location": "35.5834548,53.3991981"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون شاهرود",
+			"address": "شاهرود- خیابان امام نبش شیخ بهایی",
+			"worktime": "7:30 الی 13:30",
+			"phone": "02332221217",
+			"balad": "https://balad.ir/embed?p=qTxWewthU8Fudr",
+			"googlemap": "https://goo.gl/maps/9WeYgXujQDrNdvc66",
+			"location": "36.4208513,54.9732599"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون دامغان",
+			"address": "دامغان- خیابان شهید مفتح",
+			"worktime": "7:30 الی 13:30",
+			"phone": "02335244200",
+			"balad": "https://balad.ir/embed?p=TySD3JCTRfumve",
+			"googlemap": "https://goo.gl/maps/xsfF8bKSxyjEv2jp8",
+			"location": "36.4222555,54.9733329"
 		},
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون گرمسار",
+			"address": "گرمسار-بلوار آزادگان،روبروی پمپ گاز",
+			"worktime": "7:30 الی 13:30",
+			"phone": "02334241050",
+			"balad": "https://balad.ir/embed?p=2mHBIyjKgn6eNl",
+			"googlemap": "https://goo.gl/maps/j5S4VkYFq1Jrsobq7",
+			"location": "35.2182064,52.3526863"
 		}
 	]
 }
