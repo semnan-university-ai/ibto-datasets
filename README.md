@@ -1,6 +1,10 @@
 # ibto
 iranian blood transfusion organization datasets
 
+<p dir="rtl">
+دیتاست مراکز انتقال خون و موقعیت و اطلاعات آنها + سوال و جواب های متداول سازمان انتقال خون کشور
+</p>
+  
 * Author: Amir Shokri
 * Author Email: amirsh.nll@gmail.com
 * Last Update: 13 June, 2021
