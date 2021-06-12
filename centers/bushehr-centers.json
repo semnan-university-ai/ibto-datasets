@@ -3,13 +3,40 @@
 	"slug": "bushehr",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان بوشهر",
+			"address": "بوشهر- خیابان امام خمینی –روبروی کلینیک تخصصی ملت- اداره کل انتقال خون استان بوشهر",
+			"worktime": "7/30-13 - 16-20",
+			"phone": "07733323822|07733323823",
+			"balad": "https://balad.ir/embed?p=421ChdBU5dwIot",
+			"googlemap": "https://goo.gl/maps/VDCmrAZyLFqtGejF6",
+			"location": "28.9749958,50.8328534"
 		},
+		{
+			"name": "مرکز اهدای خون کنگان",
+			"address": "کنگان- بلوارامام خمینی - خیابان شهدا- جنب پزشک قانونی",
+			"worktime": "7/30-12-30",
+			"phone": "07727220921",
+			"balad": "https://balad.ir/embed?p=PPwR6Ri0akLwyq",
+			"googlemap": "https://goo.gl/maps/zKaq1rLSymXbohRw7",
+			"location": "27.8378376,52.0593061"
+		},
+		{
+			"name": "مرکز اهدای خون گناوه",
+			"address": "گناوه – چهارراه معلم- خیابان ساحلی",
+			"worktime": "7/30-12-30",
+			"phone": "07723220720",
+			"balad": "https://balad.ir/embed?p=4wkyDOXIsXQjAp",
+			"googlemap": "https://goo.gl/maps/pyHg1crxctengygcA",
+			"location": "29.5737109,50.5120101"
+		},
+		{
+			"name": "مرکز اهدای خون دشتستان",
+			"address": "برازجان – ابتدای خیابان شهیدچمران- کوچه کلانتری",
+			"worktime": "7:30 الی 12:30",
+			"phone": "07734221850",
+			"balad": "https://balad.ir/embed?p=PKr0F3ogjZ7qRf",
+			"googlemap": "https://goo.gl/maps/rMRPDLRdcUtWR7Pj7",
+			"location": "29.2658524,51.2064289"
+		}
 	]
 }

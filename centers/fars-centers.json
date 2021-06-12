@@ -3,13 +3,76 @@
 	"slug": "fars",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون قوامی",
+			"address": "شیراز- خیابان قصردشت –ایستگاه قوامی",
+			"worktime": "همه روزه از ساعت 8 الی 19:45 | ایام تعطیل از ساعت 8 الی 19",
+			"phone": "07136284926|07136284927|07136284928|07136284929",
+			"balad": "https://balad.ir/embed?p=4nnuxRpeQ6OZLs",
+			"googlemap": "https://goo.gl/maps/YN7Xyt7hQMQB1Pqq6",
+			"location": "31.4968549,50.7070825"
 		},
+		{
+			"name": "مرکز اهدای خون نمازی",
+			"address": "شیراز- میدان نمازی – جنب درمانگاه امام رضا(ع)",
+			"worktime": "همه روزه از ساعت 8 الی 19:30 | بجز ایام تعطیل",
+			"phone": "07132352084",
+			"balad": "https://balad.ir/embed?p=2araTrtjrhaXWy",
+			"googlemap": "https://goo.gl/maps/LZgmk7uZDZNCe2uA6",
+			"location": "29.6278711,52.5051787"
+		},
+		{
+			"name": "مرکز اهدای خون مرودشت",
+			"address": "مرودشت- روبروی کارخانه قند",
+			"worktime": "همه روزه صبحها ازساعت 8 الی ۱۳:۰۰ بجز ایام تعطیل",
+			"phone": "07143234666",
+			"balad": "https://balad.ir/embed?p=4IhsSLRRUqbUGp",
+			"googlemap": "https://goo.gl/maps/esZ7aQEPbWx3DAYS9",
+			"location": "29.8656352,52.7989089"
+		},
+		{
+			"name": "مرکز اهدای خون جهرم",
+			"address": "جهرم- بلوار شهید مطهری روبروی بیمارستان استاد مطهری",
+			"worktime": "همه روزه صبحها ازساعت ۷:۳۰ الی ۱۳:۰۰ بجز ایام تعطیل",
+			"phone": "07154344500",
+			"balad": "https://balad.ir/embed?p=Ht9cd7jTcSXmKk",
+			"googlemap": "https://goo.gl/maps/E9w6rCzLzFLqaJG17",
+			"location": "28.4997592,53.5856826"
+		},
+		{
+			"name": "مرکز اهدای خون بنی هاشمی",
+			"address": "جهرم- میدان شهدا خیابان ۱۷ شهریور – کوچه1",
+			"worktime": "عصر روزهای شنبه تا چهارشنبه از ساعت ۱۵ الی ۲۰",
+			"phone": "07154223700",
+			"balad": "https://balad.ir/embed?p=UXV6hw368qLEFC",
+			"googlemap": "https://goo.gl/maps/AHhbns2NnY5tfit58",
+			"location": "28.502578,53.5503636"
+		},
+		{
+			"name": "مرکز اهدای خون داراب",
+			"address": "داراب،بلوار جمهوری،جنب شهدای گمنام",
+			"worktime": "همه روزه صبحها ازساعت 8 الی ۱۳:۰۰ بجز ایام تعطیل",
+			"phone": "07153527098",
+			"balad": "https://balad.ir/embed?p=ZmEg6cneDF3HAM",
+			"googlemap": "https://goo.gl/maps/KcCtoQtDxZHTMAvF9",
+			"location": "28.7559273,54.5510154"
+		},
+		{
+			"name": "مرکز اهدای خون آباده",
+			"address": "آباده بلواراستقلال،جنب مسجدامام حسین ع",
+			"worktime": "همه روزه صبحها ازساعت 8 الی ۱۳:۰۰ بجز ایام تعطیل",
+			"phone": "07144336288",
+			"balad": "https://balad.ir/embed?p=GRBEWcHdt3N2Uz",
+			"googlemap": "https://goo.gl/maps/rvyudjQYZJtzAVMG6",
+			"location": "31.1602889,52.6592564"
+		},
+		{
+			"name": "مرکز اهدای خون فسا",
+			"address": "فسا میدان پلیس ابتدای خیابان شاهزاده قاسم روبروی کمیته امداد امام خمینی (ره)",
+			"worktime": "همه روزه صبحها ازساعت 8 الی ۱۳:۰۰ بجز ایام تعطیل",
+			"phone": "07153358991",
+			"balad": "https://balad.ir/embed?p=NQ3eqZJvZSf6S9",
+			"googlemap": "https://goo.gl/maps/HRkC1MzkcDoBe8xT9",
+			"location": "28.9402337,53.6443916"
+		}
 	]
 }

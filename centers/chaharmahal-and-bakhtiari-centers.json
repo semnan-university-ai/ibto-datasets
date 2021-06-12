@@ -3,13 +3,40 @@
 	"slug": "chaharmahal-and-bakhtiari",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
+			"name": "اداره کل انتقال خون استان چهارمحال و بختیاری",
+			"address": "شهرکرد-بلوارشریعتی-خیابان انتقال خون",
+			"worktime": "",
+			"phone": "03833331489",
+			"balad": "https://balad.ir/embed?p=3hUl3lXFaxTfar",
+			"googlemap": "https://goo.gl/maps/KJ6YDku5K35KKsLCA",
+			"location": "32.144529,50.6475917"
+		},
+		{
+			"name": "مرکز اهدای خون شهرکرد",
+			"address": "فارسان-خیابان امام زاده-جنب امام زاده",
+			"worktime": "",
+			"phone": "03833224647",
+			"balad": "https://balad.ir/embed?p=4BUsqgF8ybM59g",
+			"googlemap": "https://goo.gl/maps/z35oCr3RemuQNduTA",
+			"location": "32.2567198,50.5645203"
+		},
+		{
+			"name": "مرکز اهدای خون بروجن",
+			"address": "بروجن- خیابان آیت اله کاشانی",
+			"worktime": "",
+			"phone": "03834226999",
+			"balad": "https://balad.ir/embed?p=79qfsQ3gsQlmdF",
+			"googlemap": "https://goo.gl/maps/BQsKySzMZ9qssZPz6",
+			"location": "31.9735778,51.2866446"
+		},
+		{
+			"name": "مرکز اهدای خون بن",
+			"address": "بن- خیابان شهدا",
 			"worktime": "",
 			"phone": "",
 			"balad": "",
 			"googlemap": "",
 			"location": ""
-		},
+		}
 	]
 }

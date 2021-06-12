@@ -3,13 +3,22 @@
 	"slug": "qom",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز ثابت اهدای خون مرکزی ویژه آقایان",
+			"address": "بلوار 15 خرداد تقاطع عمار و یاسر",
+			"worktime": "هر روز به غیر از روزهای تعطیل | از ساعت7:30 لغایت13:30 (پنج شنبه ها تا 13)  | روزهای یک شنبه ها و سه شنبه ها تا ساعت 18",
+			"phone": "025377295350",
+			"balad": "https://balad.ir/embed?p=323XyuOYBzhKJW",
+			"googlemap": "https://goo.gl/maps/c2sc265WKakw8zA27",
+			"location": "34.6512502,50.8979698"
 		},
+		{
+			"name": "مرکز اهدای خون حضرت روح ا...",
+			"address": "قم- میدان روح ا... جنب دبیرستان ماندگار امام صادق(ع)",
+			"worktime": "هر روز به غیر از روزهای تعطیل | از ساعت 7:30 الی 13:30  | پنج شنبه ها تا 12:30",
+			"phone": "02537735020",
+			"balad": "https://balad.ir/embed?p=3lqz6IANVQ3fxE",
+			"googlemap": "https://goo.gl/maps/c2sc265WKakw8zA27",
+			"location": "34.6512502,50.8979698"
+		}
 	]
 }

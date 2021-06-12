@@ -3,13 +3,13 @@
 	"slug": "ilam",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
-		},
+			"name": "اداره کل انتقال خون استان ایلام",
+			"address": " ایلام- خیابان سعدی جنوبی- جنب اورژانس",
+			"worktime": "همه روزه غیر از جمعه ها | از ساعت 8 صبح الی 19 بعدازظهر",
+			"phone": "08433333143",
+			"balad": "https://balad.ir/embed?p=Pj0WWizaM2kLdL",
+			"googlemap": "https://goo.gl/maps/nVtJFpRayyXExd116",
+			"location": "33.637319,46.4206296"
+		}
 	]
 }

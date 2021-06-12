@@ -3,13 +3,58 @@
 	"slug": "east-azarbaijan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
+			"name": "اداره کل انتقال خون آذربایجان شرقی",
+			"address": "تبریز- خیابان آخونی نبش کوی شادگان 2",
+			"worktime": "شنبه تا چهارشنبه: از ساعت 7:30 صبح لغایت 18:30 | پنجشنبه : 7:30 صیح لغایت 17:30 | جمعه و روزهای تعطیل:10 صبح لغایت 16:30",
+			"phone": "04132863796",
+			"balad": "https://balad.ir/embed?p=4AQW8dXS1Y0Kr4",
+			"googlemap": "https://goo.gl/maps/ndVLHQ7RVpYVF7Fj8",
+			"location": "38.0822906,46.2502494"
+		},
+		{
+			"name": "مرکز اهدای خون مسجد کبود",
+			"address": "تبریز- خیابان امام خمینی (ره) روبروی مسجد کبود – پلاک 209",
+			"worktime": "شنبه تا چهارشنبه: از ساعت 7:30 صبح لغایت 18:30  | پنجشنبه : 7:30 صیح لغایت 17:30  | جمعه و روزهای تعطیل:10 صبح لغایت 16:30",
+			"phone": "04135564666",
+			"balad": "https://balad.ir/embed?p=3Sd3lgoXVLo0Zg",
+			"googlemap": "https://goo.gl/maps/HoDugotg9mkNkuNH9",
+			"location": "38.0777515,46.25787"
+		},
+		{
+			"name": "مرکز اهدای خون مراغه",
+			"address": "خیابان امام خمینی(ره) خیابان خرمشهر – پلاک 25",
+			"worktime": "بجز  جمعه و روزهای تعطیل از 8 صبح لغایت 13:30",
+			"phone": "04137452595",
+			"balad": "https://balad.ir/embed?p=5DoiQkjFYlOqSU",
+			"googlemap": "https://goo.gl/maps/gzqgmjBmDykjzeZa6",
+			"location": "38.0829154,46.2475383"
+		},
+		{
+			"name": "مرکز اهدای خون میانه",
+			"address": "خیابان بهشتی روبروی مدرسه علمیه – پلاک 18",
+			"worktime": "بجز  جمعه و روزهای تعطیل از 8 صبح لغایت 13:30",
+			"phone": "04152225551",
+			"balad": "https://balad.ir/embed?p=3VA3U3X6FvIWN3",
+			"googlemap": "https://goo.gl/maps/tBVHiGdfRDNdHVdx7",
+			"location": "37.4191381,47.7095661"
+		},
+		{
+			"name": "مرکز اهدای خون اهر",
+			"address": "اهر- جاده مشکین جنب اداره تبلیغات اسلامی",
+			"worktime": "فقط روزهای دوشنبه هر هفته  از ساعت 10 صبح لغایت 13:30",
+			"phone": "04132863796",
 			"balad": "",
 			"googlemap": "",
 			"location": ""
 		},
+		{
+			"name": "مرکز اهدای خون مرند",
+			"address": "مرند- خیابان امام خمینی روبروی هلال احمر",
+			"worktime": "فقط روزهای  یکشنبه  هر هفته  از ساعت 10 صبح لغایت 13:30",
+			"phone": "04132863796",
+			"balad": "",
+			"googlemap": "",
+			"location": ""
+		}
 	]
 }

@@ -3,13 +3,40 @@
 	"slug": "hormozgan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون هرمزگان",
+			"address": "خیابان شهید نظری – حدفاصل چهارراه مرادی و فلکه برق روبروی آموزش و پرورش ناحیه 2",
+			"worktime": "شنبه تا پنجشنبه 7:30 صبح تا 19:30",
+			"phone": "07632228032",
+			"balad": "https://balad.ir/embed?p=Pt3fAhAt3rQuUK",
+			"googlemap": "https://goo.gl/maps/T72xmK6qK6abHNfc8",
+			"location": "27.1825865,56.276204"
 		},
+		{
+			"name": "پایگاه انتقال خون بندرلنگه",
+			"address": "خیابان طالقانی – جنب بانک ملی مرکزی",
+			"worktime": "شنبه تا پنجشنبه 8 صبح تا 13:30",
+			"phone": "07644221981",
+			"balad": "https://balad.ir/embed?p=uxJ9UL5FnM8aBQ",
+			"googlemap": "https://goo.gl/maps/fUic5dmyxCbTHCfZ9",
+			"location": "26.5544667,54.8867911"
+		},
+		{
+			"name": "پایگاه انتقال خون میناب",
+			"address": "بلوار امام خمینی (ره) – نرسیده به شهرداری - نبش کوچه 15",
+			"worktime": "شنبه تا پنجشنبه 8 صبح تا 13:30",
+			"phone": "07642228211",
+			"balad": "https://balad.ir/embed?p=ypmyyxEQrcJ447",
+			"googlemap": "https://goo.gl/maps/TdKTF8gXUiW8NfXa6",
+			"location": "27.1437204,57.0777367"
+		},
+		{
+			"name": "مرکز اهدای خون قشم",
+			"address": "خیابان فرمانداری – روبروی فرمانداری شهرستان قشم",
+			"worktime": "شنبه تا پنجشنبه 16:30الی 20:30",
+			"phone": "07635222010",
+			"balad": "https://balad.ir/embed?p=44B9r9gy0hEbwo",
+			"googlemap": "https://goo.gl/maps/mqTG8GXLBopMeEQw8",
+			"location": "26.962194, 56.262341"
+		}
 	]
 }

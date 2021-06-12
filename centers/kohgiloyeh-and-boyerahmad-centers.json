@@ -3,13 +3,31 @@
 	"slug": "kohgiloyeh-and-boyerahmad",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون یاسوج",
+			"address": "یاسوج، بلوارشهید مطهری، نبش شهدا 7 ، خیابان اهدا خون",
+			"worktime": "شنبه الی چهارشنبه ساعت 8 الی 13 | پنج شنبه ساعت 8 الی 12",
+			"phone": "07433229110",
+			"balad": "https://balad.ir/embed?p=2CNriQroOdL4lM",
+			"googlemap": "https://goo.gl/maps/4uPZqHeoz7BT9Ntv7",
+			"location": "30.6749421,51.5885469"
 		},
+		{
+			"name": "مرکز اهدای خون دهدشت",
+			"address": "دهدشت، جنب بیمارستان امام خمینی",
+			"worktime": "شنبه الی پنج شنبه ساعت 8:30 الی 10:30",
+			"phone": "07432270422",
+			"balad": "https://balad.ir/embed?p=XBpJ2ABuhvLd9c",
+			"googlemap": "https://goo.gl/maps/CfRWePeCWhfe6XTNA",
+			"location": "30.80309,50.5678399"
+		},
+		{
+			"name": "مرکز اهدای خون گچساران",
+			"address": "گچساران، جنب بیمارستان شهید رجایی",
+			"worktime": "شنبه الی چهارشنبه ساعت 8 الی 12 | پنج شنبه ساعت 8 الی 11",
+			"phone": "07432222013",
+			"balad": "https://balad.ir/embed?p=Nf9fEUTZpRFwBD",
+			"googlemap": "https://goo.gl/maps/jAvKsnEF3fVK65Sz8",
+			"location": "30.3512819,50.7939898"
+		}
 	]
 }

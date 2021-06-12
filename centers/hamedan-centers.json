@@ -3,13 +3,22 @@
 	"slug": "hamedan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان همدان",
+			"address": "همدان- میدان فلسطین- بلوار غبار همدانی",
+			"worktime": "8 صبح الی 19 عصر",
+			"phone": "08134228008",
+			"balad": "https://balad.ir/embed?p=PZ7DQMcRDlV8QW",
+			"googlemap": "https://goo.gl/maps/sxY4g2Z3rkzgzSGF7",
+			"location": "34.8058717,48.5013024"
 		},
+		{
+			"name": "مرکز اهدای خون ملایر",
+			"address": "ملایر- ابتدای بلوار سیف الدوله- پایگاه شهری شماره 1 (فخریه)",
+			"worktime": "",
+			"phone": "08132220078",
+			"balad": "https://balad.ir/embed?p=2ltzyulEFFcOhw",
+			"googlemap": "https://goo.gl/maps/o7iG6ub7kXTANzWF8",
+			"location": "34.298866,48.8234031"
+		}
 	]
 }

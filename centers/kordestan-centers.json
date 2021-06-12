@@ -3,13 +3,22 @@
 	"slug": "kordestan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان کردستان",
+			"address": "سنندج- خیابان پاسداران- سه راهی حافظ",
+			"worktime": "هر روز از ساعت 8 صبح الی 18",
+			"phone": "08733245271",
+			"balad": "https://balad.ir/embed?p=3E0DwqROiiCJfB",
+			"googlemap": "https://goo.gl/maps/bp4EoHGjwxi1G3nB9",
+			"location": "35.3065607,46.9977362"
 		},
+		{
+			"name": "مرکز اهدای خون سقز",
+			"address": "سقز- خیابان ملت (ساحلی قدیم)- روبروی پارک مولوی- نبش ک باستان",
+			"worktime": "هر روز از ساعت 7:30 صبح الی 12",
+			"phone": "08736217302",
+			"balad": "https://balad.ir/embed?p=4sRGLI8UeCfoz3",
+			"googlemap": "https://goo.gl/maps/5msN3SAeqrxAzcp2A",
+			"location": "36.2465189,46.0762607"
+		}
 	]
 }

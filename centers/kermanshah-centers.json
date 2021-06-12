@@ -3,13 +3,40 @@
 	"slug": "kermanshah",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
+			"name": "اداره کل انتقال خون استان کرمانشاه",
+			"address": "بلوار شهید بهشتی",
+			"worktime": "همه روزه 07:30 الی 18:30",
+			"phone": "08338239250",
+			"balad": "https://balad.ir/embed?p=6xfAnluYUQwXlC",
+			"googlemap": "https://goo.gl/maps/92pnpR65ogMpnJJz5",
+			"location": "34.3324165,47.0840226"
+		},
+		{
+			"name": "پایگاه کنگاور (تیم سیار)",
+			"address": "جنب بیمارستان شهید چمران",
+			"worktime": "روزهای چهارشنبه  اول هر ماه 8 الی 13",
+			"phone": "08338239593",
+			"balad": "https://balad.ir/embed?p=1fS9UcvthjJTWV",
+			"googlemap": "https://goo.gl/maps/68Q8NkAnR2ypxidt7",
+			"location": "34.4994286,47.9448915"
+		},
+		{
+			"name": "پایگاه قصرشیرین (تیم سیار)",
+			"address": "جنب فرمانداری",
+			"worktime": "روزهای چهارشنبه 8 الی 13",
+			"phone": "08338239593",
 			"balad": "",
 			"googlemap": "",
 			"location": ""
 		},
+		{
+			"name": "جنب بیمارستان امام خمینی",
+			"address": "روزهای یکشنبه  اول هر ماه 8 ال 13",
+			"worktime": "",
+			"phone": "08338238829",
+			"balad": "https://balad.ir/embed?p=PMFaIVBCyaiqZC",
+			"googlemap": "https://goo.gl/maps/T8oFAmP4uoUeRubM6",
+			"location": "34.3127466,47.0514265"
+		}
 	]
 }

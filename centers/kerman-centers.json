@@ -3,13 +3,58 @@
 	"slug": "kerman",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان کرمان",
+			"address": "بلوار 22 بهمن - چهارراه شعبانیه",
+			"worktime": "همه روزه 7:30 صبح الی 19:30 | پنج شنبه ها  7:30 صبح الی 18  ",
+			"phone": "01833230712",
+			"balad": "https://balad.ir/embed?p=5ZrGhlU2xe1t9G",
+			"googlemap": "https://goo.gl/maps/mvMccB3RCcayR9yq5",
+			"location": "30.2751188,57.0865358"
 		},
+		{
+			"name": "مرکز اهدای خون آزادی",
+			"address": "بلوارجمهوری اسلامی – جنب دانشگاه امام حسین",
+			"worktime": "روزهای فرد از 7:30 الی 13:30  به جز پنج شنبه ها 7:30 صبح الی 12:30",
+			"phone": "",
+			"balad": "https://balad.ir/embed?p=2AMWZyaKzFMskw",
+			"googlemap": "https://goo.gl/maps/THnbnWxzUqYxW15B9",
+			"location": "30.2866749,57.0479109"
+		},
+		{
+			"name": "مرکز اهدای خون جیرفت",
+			"address": "جیرفت- چهارراه بیمارستان امام خمینی (ره) – خیابان شفا بعد از اورژانس بیمارستان امام خمینی (ره)",
+			"worktime": "همه روزه 7:30 صبح الی 13:30  ",
+			"phone": "0443318003",
+			"balad": "https://balad.ir/embed?p=6U2Ef3H0jX6DXG",
+			"googlemap": "https://goo.gl/maps/xP9qNuxReU1QBCLm7",
+			"location": "28.6805321,57.7477622"
+		},
+		{
+			"name": "مرکز اهدای خون بم",
+			"address": "میدان 17 شهریور – خیابان طالقانی – بعد از اداره بهزیستی",
+			"worktime": "همه روزه 7:30 صبح الی 13:30",
+			"phone": "04644221444",
+			"balad": "https://balad.ir/embed?p=P1gQsSJSI9jTDs",
+			"googlemap": "https://goo.gl/maps/DSR66sKpdLnjFDNu7",
+			"location": "29.0944747,58.3513086"
+		},
+		{
+			"name": "مرکز اهدای خون سیرجان",
+			"address": "میدان انقلاب -پایگاه انتقال خون شهرستان سیرجان",
+			"worktime": "همه روزه 7:30 صبح الی 13:30",
+			"phone": "42200888|42205240",
+			"balad": "https://balad.ir/embed?p=Y2bmH8axrs7YNX",
+			"googlemap": "https://goo.gl/maps/YLenLU1Ly1DznL356",
+			"location": "29.4490677,55.6661405"
+		},
+		{
+			"name": "مرکز اهدای خون رفسنجان",
+			"address": "بلوار طالقانی – روبروی شرکت سپه - جنب هتل هیلان - پایگاه انتقال خون شهرستان رفسنجان.",
+			"worktime": "همه روزه 7:30 صبح الی 13:30",
+			"phone": "34259226|34256104",
+			"balad": "https://balad.ir/embed?p=qQV8b2HGbwQKSL",
+			"googlemap": "https://goo.gl/maps/qRtizzU1KEhkJEN59",
+			"location": "30.4019287,55.9855912"
+		}
 	]
 }

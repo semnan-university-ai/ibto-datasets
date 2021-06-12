@@ -1,34 +1,7 @@
 {
-	"name": "مرکزی",
-	"slug": "markazi",
+	"name": "خراسان جنوبی",
+	"slug": "southern-khorasan",
 	"centers": [
-		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
-		},
-		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
-		},
-		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
-		},
 		{
 			"name": "",
 			"address": "",

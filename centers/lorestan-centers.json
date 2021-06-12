@@ -3,13 +3,40 @@
 	"slug": "lorestan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "اداره کل انتقال خون استان لرستان - خرم آباد",
+			"address": "بلوار شهید شفیع پور (60 متری)- خیابان پوریای ولی-جنب استخر کوثر",
+			"worktime": "هر روز از ساعت 7:30 صبح تا 18 عصر در دو شیفت کاری",
+			"phone": "06633229971|06633229972",
+			"balad": "https://balad.ir/embed?p=2FNGBvZY4FmRZu",
+			"googlemap": "https://goo.gl/maps/2mgy72oUkRUKNnTk9",
+			"location": "33.5091141,48.3484455"
 		},
+		{
+			"name": "مرکز اهدای خون علوی (میدان امام) - خرم آباد",
+			"address": "میدان امام خمینی- به طرف ساحلی",
+			"worktime": "هر روز از 7:30 لغایت 13",
+			"phone": "06633428881",
+			"balad": "https://balad.ir/embed?p=4EUFedhoEzTzoQ",
+			"googlemap": "https://goo.gl/maps/mw7KdTJxt8u7cRvc7",
+			"location": "33.4744702,48.3313248"
+		},
+		{
+			"name": "مرکز اهدای خون بروجرد",
+			"address": "خیابان تختی-خیابان اوستا جنوبی-روبروی اداره ارشاد اسلامی",
+			"worktime": "هر روز از ساعت 7:30 صبح تا 18 عصر در دو شیفت کاری",
+			"phone": "06642508808|06642508809",
+			"balad": "https://balad.ir/embed?p=4KWpYGEvyZW2gq",
+			"googlemap": "https://goo.gl/maps/QVGMQns2BCzc5ESz9",
+			"location": "33.5187274,48.3599335"
+		},
+		{
+			"name": "مرکز اهدای خون هادی لویی - الیگودرز",
+			"address": "خیابان امام- خیابان شهید عسگری- کوچه انتقال خون",
+			"worktime": "هر روز از 7:30 لغایت 13",
+			"phone": "06643345512",
+			"balad": "https://balad.ir/embed?p=PH140zayiUsSvd",
+			"googlemap": "https://goo.gl/maps/n3Gmhd71mZwMTbZj8",
+			"location": "33.3990732,49.6928768"
+		}
 	]
 }

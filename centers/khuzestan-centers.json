@@ -3,13 +3,94 @@
 	"slug": "khuzestan",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز اهدای خون اهواز",
+			"address": "اهواز- بلوار پاسداران –جنب شهرداری منطقه 7",
+			"worktime": "ازشنبه تاچهارشنبه 7:45  الی 19:30 | پنج شنبه  45 : 7  الی  30: 18 | جمعه  8 الی 13",
+			"phone": "06132268630",
+			"balad": "https://balad.ir/embed?p=5DzuU60Ys3tJWN",
+			"googlemap": "https://goo.gl/maps/3C64ooCrNMaVV7rj6",
+			"location": "31.3331977,48.6550709"
 		},
+		{
+			"name": "مرکز اهدای خون جامع امانیه",
+			"address": "اهواز- امانیه – خ فلسطین – جنب بیمارستان رازی",
+			"worktime": " از شنبه تا چهارشنبه 7:45   الی 30 : 19 | پنج شنبه 45 : 7  الی 30 : 18 | جمعه  8   الی   13",
+			"phone": "06133335983",
+			"balad": "https://balad.ir/embed?p=5DzuU60Ys3tJWN",
+			"googlemap": "https://goo.gl/maps/3C64ooCrNMaVV7rj6",
+			"location": "31.3331977,48.6550709"
+		},
+		{
+			"name": "مرکز اهدای خون بهبهان",
+			"address": "بهبهان- خیابان پیروز روبروی درمانگاه ابن سینا",
+			"worktime": "شنبه  الی چهارشنبه 7:45 الی19:30 | پنجشنبه 45 :7 الی18:30",
+			"phone": "06152835699",
+			"balad": "https://balad.ir/embed?p=Hv4tsdpARCKKDV",
+			"googlemap": "https://goo.gl/maps/19ViuYSYXHa4MYye7",
+			"location": "30.5961552,50.2343952"
+		},
+		{
+			"name": "مرکز اهدای خون ایذه",
+			"address": "ایذه- خیابان آیت اله طالقانی روبروی درمانگاه امید",
+			"worktime": "شنبه الی چهارشنبه  7:45  الی  13 | پنجشنبه  45: 7 الی  12",
+			"phone": "436-061 5222728",
+			"balad": "https://balad.ir/embed?p=6yYhRNo64iYGpX",
+			"googlemap": "https://goo.gl/maps/1hvs1wcp2BZYtqZeA",
+			"location": "31.8302309,49.8697961"
+		},
+		{
+			"name": "مرکز اهدای خون دزفول",
+			"address": "دزفول- خیابان حضرت رسول نبش شریعتی",
+			"worktime": "شنبه الی چهارشنبه 7:45 الی  13 | پنجشنبه  7:45   الی12 ",
+			"phone": "06142221911",
+			"balad": "https://balad.ir/embed?p=PxXqVyKmdWY8ow",
+			"googlemap": "https://goo.gl/maps/zYLoXZpt3shi8BQ57",
+			"location": "32.3803555,48.4048317"
+		},
+		{
+			"name": "مرکز اهدای خون مسجد سلیمان",
+			"address": "مسجد سلیمان- خیابان آزادی –پشت درمانگاه ولی عصر",
+			"worktime": "شنبه الی چهارشنبه 7:45 الی13:30  | پنجشنبه 7:45الی 12",
+			"phone": "06143224600",
+			"balad": "https://balad.ir/embed?p=VyBHSkMf6UwXn3",
+			"googlemap": "https://goo.gl/maps/YXChRutbSWCZPJDb9",
+			"location": "30.3388754,48.2923741"
+		},
+		{
+			"name": "مرکز اهدای خون آبادان",
+			"address": "آبادان- بلوار ولایت –نبش خیابان باشگاه",
+			"worktime": "شنبه تا چهارشنبه  7:45 الی13:30 و 16    الی 30: 19 | پنجشنبه  7:45 الی 12",
+			"phone": "06153328693",
+			"balad": "https://balad.ir/embed?p=6V6mYzce6ZXmYE",
+			"googlemap": "https://goo.gl/maps/nvBrx9fhZNASy36K6",
+			"location": "30.3390836,48.2935776"
+		},
+		{
+			"name": "مرکز اهدای خون خرمشهر",
+			"address": "خرمشهر- بلوار آیت اله خامنه ای-خ 40 متری جنب درمانگاه امام رضا (ع)",
+			"worktime": "شنبه تا چهارشنبه 8     الی12:30 | پنجشنبه 8     الی 11:30",
+			"phone": "06153526026",
+			"balad": "https://balad.ir/embed?p=6CFBwzogX2pJXu",
+			"googlemap": "https://goo.gl/maps/YNqZiuEPbEoM3ACY7",
+			"location": "30.4439886,48.172416"
+		},
+		{
+			"name": "مرکز اهدای خون شوشتر",
+			"address": "شوشتر- خیابان آیت اله طالقانی جنب درمانگاه پاپهن",
+			"worktime": "شنبه تا چهارشنبه 7:45 الی 13 | پنجشنبه 7:45 الی12",
+			"phone": "06136229886",
+			"balad": "https://balad.ir/embed?p=4o5KTpiW8BUSXu",
+			"googlemap": "https://goo.gl/maps/nJTQYJKKyyyvSz5dA",
+			"location": "32.0455499,48.8518482"
+		},
+		{
+			"name": "مرکز اهدای خون اندیمشک",
+			"address": "اندیمشک- خیابان انقلاب پشت فرمانداری –جنب راهنمایی رانندگی",
+			"worktime": "شنبه تا چهار شنبه 7:45 الی  13 | پنجشنبه 7:45 الی 12",
+			"phone": "06142690753",
+			"balad": "https://balad.ir/embed?p=6vxtwv50Urck11",
+			"googlemap": "https://goo.gl/maps/YE9EwdhRuDtwspo98",
+			"location": "32.4747313,48.3499609"
+		}
 	]
 }

@@ -3,13 +3,40 @@
 	"slug": "ardebil",
 	"centers": [
 		{
-			"name": "",
-			"address": "",
-			"worktime": "",
-			"phone": "",
-			"balad": "",
-			"googlemap": "",
-			"location": ""
+			"name": "مرکز ثابت اهدای خون اردبیل",
+			"address": "میدان شریعتی- خیابان هلال احمر-جنب بیمارستان فاطمی",
+			"worktime": "ایام هفته 7:30 الی 19:30",
+			"phone": "04533237167",
+			"balad": "https://balad.ir/embed?p=6QSysol6QzQofi",
+			"googlemap": "https://goo.gl/maps/ts1xe7aaaY3ymx2B9",
+			"location": "38.2381185,48.2844401"
 		},
+		{
+			"name": "پایگاه انتقال خون پارس آباد",
+			"address": "خیابان امام خمینی(ره) روبروی پارک مغان",
+			"worktime": "ایام هفته 7:30 الی 13:30",
+			"phone": "04532730606",
+			"balad": "https://balad.ir/embed?p=1VnGCeZYM825ap",
+			"googlemap": "https://goo.gl/maps/D2FPMpBWhwKn27ux7",
+			"location": "39.6517827,47.9001285"
+		},
+		{
+			"name": "پایگاه انتقال خون مشکین شهر",
+			"address": "خیابان سعدی- نرسیده به بیمارستان ولیعصر(عج)",
+			"worktime": "ایام هفته 7:30 الی 13:30",
+			"phone": "04532536600",
+			"balad": "https://balad.ir/embed?p=L4RT5QW3xwshuj",
+			"googlemap": "https://goo.gl/maps/qLTsC7YLF5SMtTkcA",
+			"location": "38.3791822,47.6779392"
+		},
+		{
+			"name": "پایگاه انتقال خون خلخال",
+			"address": "خیابان اشرفی اصفهانی",
+			"worktime": "ایام هفته 7:30 الی 13:30",
+			"phone": "04532427866",
+			"balad": "https://balad.ir/embed?p=7lYwHH9y8xaXkb",
+			"googlemap": "https://goo.gl/maps/hQCZi5y4YTUEctGd8",
+			"location": "37.5903713,48.3007519"
+		}
 	]
 }
