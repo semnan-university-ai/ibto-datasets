@@ -10,6 +10,7 @@ iranian blood transfusion organization datasets
 * Last Update: 13 June, 2021
 * Data format: JSON Data
 * Contribute: Fork and Push Requests :)
+* DOI : 10.34740/kaggle/dsv/2327873
 
 <div dir="rtl">
 
